@@ -4,8 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adithyapy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithyapy" height="30" width="40" />LinkedIn</a>\
-<span>
-<a href="https://instagram.com/adithya_04_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithya_04_" height="30" width="40" />Instagram</a>
+<br>
+<a href="https://instagram.com/adithya_04_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithya_04_" height="30" width="40" />Instagram</a><br>
 <a href="https://www.leetcode.com/prog_adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prog_adithya" height="30" width="40" />LeetCode</a>
 </p>
 
