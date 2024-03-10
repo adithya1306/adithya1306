@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adithya B</h1>
-<h3 align="center">A MERN Stack Developer from India</h3>
+<h3 align="center">An Entry-Level MERN Stack Developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adithyapy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithyapy" height="30" width="40" /></a>
-<a href="https://instagram.com/adithya_04_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithya_04_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prog_adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prog_adithya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adithyapy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithyapy" height="30" width="40" />LinkedIn</a>
+<a href="https://instagram.com/adithya_04_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithya_04_" height="30" width="40" />Instagram</a>
+<a href="https://www.leetcode.com/prog_adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prog_adithya" height="30" width="40" />LeetCode</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
